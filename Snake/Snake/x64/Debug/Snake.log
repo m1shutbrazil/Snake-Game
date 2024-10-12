@@ -1,0 +1,4 @@
+﻿  Snake.cpp
+D:\VisualStudio\VisuaulStudioProjects\Snake\Snake\Snake.cpp(6,16): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\VisualStudio\VisuaulStudioProjects\Snake\Snake\Snake.cpp(6,19): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+  Snake.vcxproj -> D:\VisualStudio\VisuaulStudioProjects\Snake\x64\Debug\Snake.exe
