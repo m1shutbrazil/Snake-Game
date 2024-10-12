@@ -29,6 +29,8 @@ This is a simple terminal-based Snake game implemented in C++.
    git clone https://github.com/yourusername/Snake-Game-cpp.git
    cd snake-game-cpp
 2. Compile the programm
-     g++ -o Snake main.cpp
+   ```bash
+   g++ -o Snake main.cpp
 3. Run the game
+   ```bash
     ./Snake
