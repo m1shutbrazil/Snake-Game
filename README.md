@@ -30,7 +30,7 @@ This is a simple terminal-based Snake game implemented in C++.
    cd snake-game-cpp
 2. Compile the programm
    ```bash
-   g++ -o Snake main.cpp
+   g++ -o Snake Snake.cpp
 3. Run the game
    ```bash
     ./Snake
